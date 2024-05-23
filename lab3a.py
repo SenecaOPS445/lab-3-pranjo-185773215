@@ -25,3 +25,4 @@ if __name__ == '__main__':
     print(text)
     number = return_number_value()
     print(str(number))
+    
